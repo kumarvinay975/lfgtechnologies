@@ -4,4 +4,5 @@
 <body>
 <h1>LFG Technologies</h1>
 <p>This is the new age of technology in which every human can be the change.</p>
+<input style="text" placeholder="Enter the Text please">
 </body>
